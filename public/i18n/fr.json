@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "projects": "Réalisations",
+    "contact": "Contact",
+    "language": "Langue",
+    "menu": "Menu",
+    "footer": "Navigation du pied de page"
+  },
+  "common": {
+    "details": "Détails",
+    "close": "Fermer",
+    "previous": "Photo précédente",
+    "next": "Photo suivante",
+    "askForQuote": "Demander un devis"
+  },
+  "home": {
+    "hero": {
+      "products": "Voir nos produits",
+      "eyebrow": "Structures solides, finitions soignées",
+      "title": "Garde-corps, auvents, mains courantes et autres structures",
+      "accent": "en inox et en verre.",
+      "lead": "Nous sommes une entreprise familiale de Podlachie (Pologne). Depuis 1996, nous fabriquons et installons des produits en acier inoxydable, également associés au verre et au bois – pour les particuliers, les entreprises et les institutions."
+    },
+    "coverage": {
+      "base": {
+        "title": "Notre siège : Podlachie, Białystok",
+        "text": "Nous réalisons des projets dans toute la Pologne. Nous sommes particulièrement actifs en Podlachie ainsi que dans les voïvodies de Mazovie, Varmie-Mazurie et Lublin."
+      },
+      "poland": {
+        "title": "Du relevé de mesures à la pose",
+        "text": "Nous nous occupons des relevés, de la fabrication et de la pose. Nous pouvons mener tout le projet de A à Z, ou fabriquer uniquement les garde-corps que vous installerez vous-même."
+      },
+      "abroad": {
+        "title": "Projets à l’étranger",
+        "text": "Nous avons réalisé des projets en Allemagne, en République tchèque et en France."
+      }
+    },
+    "products": {
+      "title": "Nos produits"
+    },
+    "cta": {
+      "title": "Précision, expérience, respect des délais.",
+      "text": "Nous misons sur la qualité et la satisfaction de nos clients.",
+      "button": "Voir nos réalisations"
+    }
+  },
+  "projects": {
+    "title": "Nos réalisations",
+    "lead": "Découvrez pour qui et quels projets nous avons réalisés.",
+    "heading": "Réalisations choisies",
+    "filterLabel": "Filtre des réalisations",
+    "empty": "Aucune réalisation dans cette catégorie.",
+    "filters": {
+      "all": "Toutes",
+      "public": "Institutions publiques",
+      "company": "Entreprises",
+      "private": "Particuliers",
+      "abroad": "Étranger"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Une question ou un projet à chiffrer ? Appelez ou écrivez à nos spécialistes – nous vous conseillons volontiers et préparons une offre.",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Siège de l’entreprise"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}

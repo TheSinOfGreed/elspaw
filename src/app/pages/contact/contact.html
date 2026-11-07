@@ -1,0 +1,49 @@
+<section class="page-hero" style="--hero-image: url(images/img2.jpg)">
+  <div class="container">
+    <h1>{{ 'contact.title' | translate }}</h1>
+    <p>{{ 'contact.lead' | translate }}</p>
+  </div>
+</section>
+
+@if (contact(); as data) {
+  <section class="container content">
+    <div class="people">
+      @for (person of data.people; track person.email) {
+        <article class="card">
+          <div class="avatar"><app-icon name="user" /></div>
+          <h2>{{ person.name }}</h2>
+          <p class="role">{{ person.role | localize }}</p>
+          <ul class="details">
+            <li>
+              <app-icon name="phone" />
+              <div>
+                <span class="label">{{ 'contact.phone' | translate }}</span>
+                <a [href]="phoneHref(person.phone)">{{ person.phone }}</a>
+              </div>
+            </li>
+            <li>
+              <app-icon name="mail" />
+              <div>
+                <span class="label">{{ 'contact.email' | translate }}</span>
+                <a [href]="'mailto:' + person.email">{{ person.email }}</a>
+              </div>
+            </li>
+          </ul>
+        </article>
+      }
+    </div>
+
+    <div class="company">
+      <app-icon name="building" />
+      <div>
+        <span class="label">{{ 'contact.address' | translate }}</span>
+        <address>
+          <strong>{{ data.company }}</strong>
+          @for (line of data.address; track line) {
+            <span>{{ line }}</span>
+          }
+        </address>
+      </div>
+    </div>
+  </section>
+}

@@ -1,0 +1,21 @@
+<article class="card">
+  <button type="button" class="media" (click)="opened.emit()" [attr.aria-label]="title()">
+    <img [src]="image()" [alt]="title()" loading="lazy" />
+    @if (tag()) {
+      <span class="tag">{{ tag() }}</span>
+    }
+  </button>
+  <div class="body">
+    <h3 class="title">{{ title() }}</h3>
+    @if (subtitle()) {
+      <p class="subtitle"><app-icon name="pin" /> {{ subtitle() }}</p>
+    }
+    @if (summary()) {
+      <p class="summary">{{ summary() }}</p>
+    }
+    <button type="button" class="more" (click)="opened.emit()">
+      {{ 'common.details' | translate }}
+      <app-icon name="arrow" />
+    </button>
+  </div>
+</article>

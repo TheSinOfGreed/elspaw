@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "projects": "Referenzen",
+    "contact": "Kontakt",
+    "language": "Sprache",
+    "menu": "Menü",
+    "footer": "Navigation in der Fußzeile"
+  },
+  "common": {
+    "details": "Details",
+    "close": "Schließen",
+    "previous": "Vorheriges Foto",
+    "next": "Nächstes Foto",
+    "askForQuote": "Angebot anfragen"
+  },
+  "home": {
+    "hero": {
+      "products": "Unsere Produkte ansehen",
+      "eyebrow": "Solide Konstruktionen, saubere Ausführung",
+      "title": "Geländer, Vordächer, Handläufe und weitere Konstruktionen",
+      "accent": "aus Edelstahl und Glas.",
+      "lead": "Wir sind ein Familienbetrieb aus Podlachien (Polen). Seit 1996 fertigen und montieren wir Edelstahlprodukte, auch in Kombination mit Glas und Holz – für Privatkunden, Unternehmen und Institutionen."
+    },
+    "coverage": {
+      "base": {
+        "title": "Unser Sitz: Podlachien, Białystok",
+        "text": "Wir realisieren Aufträge in ganz Polen. Besonders aktiv sind wir in Podlachien sowie in den Woiwodschaften Masowien, Ermland-Masuren und Lublin."
+      },
+      "poland": {
+        "title": "Von der Vermessung bis zur Montage",
+        "text": "Wir übernehmen Aufmaß, Fertigung und Montage. Wir begleiten den gesamten Prozess von Anfang an oder fertigen nur die Geländer, die Sie selbst montieren."
+      },
+      "abroad": {
+        "title": "Aufträge im Ausland",
+        "text": "Wir können Projekte in Deutschland, Tschechien und Frankreich vorweisen."
+      }
+    },
+    "products": {
+      "title": "Unsere Produkte"
+    },
+    "cta": {
+      "title": "Präzision, Erfahrung, Termintreue.",
+      "text": "Wir setzen auf Qualität und die Zufriedenheit unserer Kunden.",
+      "button": "Unsere Referenzen ansehen"
+    }
+  },
+  "projects": {
+    "title": "Unsere Referenzen",
+    "lead": "Sehen Sie, für wen wir welche Projekte realisiert haben.",
+    "heading": "Ausgewählte Referenzen",
+    "filterLabel": "Referenzfilter",
+    "empty": "Keine Referenzen in dieser Kategorie.",
+    "filters": {
+      "all": "Alle",
+      "public": "Öffentliche Einrichtungen",
+      "company": "Unternehmen",
+      "private": "Privatpersonen",
+      "abroad": "Ausland"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Haben Sie Fragen oder möchten Sie ein Angebot? Rufen Sie unsere Fachleute an oder schreiben Sie ihnen – wir beraten Sie gern und erstellen ein Angebot.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Firmensitz"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

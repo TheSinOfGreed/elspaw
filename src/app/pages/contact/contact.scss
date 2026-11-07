@@ -1,0 +1,122 @@
+@use '../../../styles/mixins' as *;
+
+.page-hero {
+  padding-block: clamp(40px, 7vw, 80px);
+  background:
+    linear-gradient(90deg, rgb(7 19 31 / 96%), rgb(7 19 31 / 70%)),
+    var(--hero-image) center / cover no-repeat;
+  border-bottom: 1px solid var(--color-border);
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 800;
+  }
+
+  p {
+    max-width: 60ch;
+    margin-top: 10px;
+    color: #cfdae6;
+  }
+}
+
+.content {
+  padding-block: 40px clamp(40px, 7vw, 72px);
+}
+
+.people {
+  display: grid;
+  gap: 20px;
+
+  @include up(768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.card {
+  padding: 28px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+
+  h2 {
+    font-size: 1.4rem;
+    font-weight: 800;
+  }
+}
+
+.avatar {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 16px;
+  border-radius: 50%;
+  background: var(--color-surface-raised);
+  border: 1px solid var(--color-border);
+  font-size: 1.6rem;
+  color: var(--color-accent);
+}
+
+.role {
+  margin-top: 2px;
+  color: var(--color-text-muted);
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  app-icon {
+    margin-top: 2px;
+    font-size: 1.4rem;
+    color: var(--color-accent);
+  }
+
+  a {
+    font-weight: 600;
+    word-break: break-word;
+
+    &:hover {
+      color: var(--color-accent);
+    }
+  }
+}
+
+.label {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+}
+
+.company {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-top: 20px;
+  padding: 24px 28px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+
+  app-icon {
+    margin-top: 2px;
+    font-size: 1.5rem;
+    color: var(--color-accent);
+  }
+
+  address {
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+  }
+}

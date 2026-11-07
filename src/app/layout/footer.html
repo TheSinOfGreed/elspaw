@@ -1,0 +1,11 @@
+<footer class="footer">
+  <div class="container bar">
+    <app-logo />
+    <nav class="links" [attr.aria-label]="'nav.footer' | translate">
+      <a routerLink="/">{{ 'nav.home' | translate }}</a>
+      <a routerLink="/realizacje">{{ 'nav.projects' | translate }}</a>
+      <a routerLink="/kontakt">{{ 'nav.contact' | translate }}</a>
+    </nav>
+  </div>
+  <p class="copy">© {{ year }} Elspaw. {{ 'footer.rights' | translate }}</p>
+</footer>

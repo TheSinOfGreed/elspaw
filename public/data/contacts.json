@@ -1,0 +1,28 @@
+{
+  "company": "ZHU ELSPAW",
+  "address": ["Krugło", "16-200 Dąbrowa Białostocka", "woj. podlaskie"],
+  "people": [
+    {
+      "name": "Jan Kowalski",
+      "role": {
+        "pl": "Specjalista ds. ofert i realizacji",
+        "en": "Quotes and projects specialist",
+        "de": "Fachberater für Angebote und Projekte",
+        "fr": "Spécialiste devis et réalisations"
+      },
+      "phone": "+48 123 456 789",
+      "email": "jan.kowalski@elspaw.pl"
+    },
+    {
+      "name": "Tomasz Potocki",
+      "role": {
+        "pl": "Specjalista ds. montażu i pomiarów",
+        "en": "Installation and measurement specialist",
+        "de": "Fachberater für Montage und Aufmaß",
+        "fr": "Spécialiste pose et relevés de mesures"
+      },
+      "phone": "+48 123 456 780",
+      "email": "tomasz.potocki@elspaw.pl"
+    }
+  ]
+}

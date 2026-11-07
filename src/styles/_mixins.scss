@@ -1,0 +1,25 @@
+@use 'variables' as *;
+
+@mixin up($width) {
+  @media (min-width: $width) {
+    @content;
+  }
+}
+
+@mixin down($width) {
+  @media (max-width: $width - 1px) {
+    @content;
+  }
+}
+
+@mixin container {
+  width: 100%;
+  max-width: calc(var(--container-width) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+@mixin focus-ring {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}

@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "projects": "Realizacje",
+    "contact": "Kontakt",
+    "language": "Język",
+    "menu": "Menu",
+    "footer": "Nawigacja w stopce"
+  },
+  "common": {
+    "details": "Szczegóły",
+    "close": "Zamknij",
+    "previous": "Poprzednie zdjęcie",
+    "next": "Następne zdjęcie",
+    "askForQuote": "Zapytaj o wycenę"
+  },
+  "home": {
+    "hero": {
+      "products": "Zobacz nasze produkty",
+      "eyebrow": "Solidne konstrukcje, estetyczne wykonanie",
+      "title": "Balustrady, daszki, poręcze i inne konstrukcje",
+      "accent": "ze stali nierdzewnej i szkła.",
+      "lead": "Jesteśmy rodzinną firmą z Podlasia, która od 1996 roku wykonuje i montuje wyroby ze stali nierdzewnej, także w połączeniu ze szkłem i drewnem – dla klientów indywidualnych, firm i instytucji."
+    },
+    "coverage": {
+      "base": {
+        "title": "Nasza siedziba: Podlasie, Białystok",
+        "text": "Realizujemy zlecenia w całej Polsce. Szczególnie aktywni jesteśmy na Podlasiu oraz w województwach mazowieckim, warmińsko-mazurskim i lubelskim."
+      },
+      "poland": {
+        "title": "Od pomiaru po montaż",
+        "text": "Zajmujemy się pomiarami, wykonaniem i montażem. Możemy poprowadzić cały proces od zera albo wykonać same balustrady, które zamontujesz we własnym zakresie."
+      },
+      "abroad": {
+        "title": "Realizujemy zlecenia za granicą",
+        "text": "Możemy pochwalić się projektami w Niemczech, Czechach i Francji."
+      }
+    },
+    "products": {
+      "title": "Nasze produkty"
+    },
+    "cta": {
+      "title": "Precyzja, doświadczenie, terminowość.",
+      "text": "Stawiamy na jakość i zadowolenie naszych klientów.",
+      "button": "Zobacz nasze realizacje"
+    }
+  },
+  "projects": {
+    "title": "Nasze realizacje",
+    "lead": "Zobacz, dla kogo i jakie projekty wykonaliśmy.",
+    "heading": "Wybrane realizacje",
+    "filterLabel": "Filtr realizacji",
+    "empty": "Brak realizacji w tej kategorii.",
+    "filters": {
+      "all": "Wszystkie",
+      "public": "Instytucje publiczne",
+      "company": "Firmy",
+      "private": "Osoby prywatne",
+      "abroad": "Zagranica"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Masz pytania lub chcesz wycenić projekt? Zadzwoń albo napisz do naszych specjalistów – chętnie doradzimy i przygotujemy ofertę.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Siedziba firmy"
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone."
+  }
+}

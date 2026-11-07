@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language",
+    "menu": "Menu",
+    "footer": "Footer navigation"
+  },
+  "common": {
+    "details": "Details",
+    "close": "Close",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "askForQuote": "Request a quote"
+  },
+  "home": {
+    "hero": {
+      "products": "See our products",
+      "eyebrow": "Solid structures, careful craftsmanship",
+      "title": "Railings, canopies, handrails and other structures",
+      "accent": "in stainless steel and glass.",
+      "lead": "We are a family-run company from Podlasie, Poland. Since 1996 we have made and installed stainless steel products, also combined with glass and wood – for individual customers, businesses and institutions."
+    },
+    "coverage": {
+      "base": {
+        "title": "Based in Podlasie, Białystok",
+        "text": "We take on projects across Poland. We are especially active in Podlasie and in the Masovian, Warmian-Masurian and Lublin regions."
+      },
+      "poland": {
+        "title": "From measurement to installation",
+        "text": "We handle measuring, fabrication and installation. We can run the whole process from scratch, or make just the railings for you to install yourself."
+      },
+      "abroad": {
+        "title": "Projects abroad",
+        "text": "We can show projects completed in Germany, the Czech Republic and France."
+      }
+    },
+    "products": {
+      "title": "Our products"
+    },
+    "cta": {
+      "title": "Precision, experience, punctuality.",
+      "text": "We care about quality and our customers' satisfaction.",
+      "button": "See our projects"
+    }
+  },
+  "projects": {
+    "title": "Our projects",
+    "lead": "See who we have worked for and what we have built.",
+    "heading": "Selected projects",
+    "filterLabel": "Project filter",
+    "empty": "No projects in this category.",
+    "filters": {
+      "all": "All",
+      "public": "Public institutions",
+      "company": "Companies",
+      "private": "Private customers",
+      "abroad": "Abroad"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Have questions or want a quote? Call or write to our specialists – we are happy to advise and prepare an offer.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Company address"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

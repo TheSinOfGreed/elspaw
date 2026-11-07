@@ -1,0 +1,41 @@
+<section class="page-hero" style="--hero-image: url(images/img1.jpg)">
+  <div class="container">
+    <h1>{{ 'projects.title' | translate }}</h1>
+    <p>{{ 'projects.lead' | translate }}</p>
+  </div>
+</section>
+
+<section class="container content">
+  <div class="filters" role="group" [attr.aria-label]="'projects.filterLabel' | translate">
+    @for (filter of filters; track filter) {
+      <button
+        type="button"
+        class="chip"
+        [class.active]="filter === active()"
+        [attr.aria-pressed]="filter === active()"
+        (click)="select(filter)"
+      >
+        {{ 'projects.filters.' + filter | translate }}
+      </button>
+    }
+  </div>
+
+  <h2 class="section-title">{{ 'projects.heading' | translate }}</h2>
+
+  @if (visible().length) {
+    <div class="grid">
+      @for (project of visible(); track project.id) {
+        <app-gallery-card
+          [image]="project.images[0]"
+          [title]="language.localize(project.title)"
+          [subtitle]="language.localize(project.location)"
+          [summary]="language.localize(project.summary)"
+          [tag]="categoryLabel(project)"
+          (opened)="open(project)"
+        />
+      }
+    </div>
+  } @else {
+    <p class="empty">{{ 'projects.empty' | translate }}</p>
+  }
+</section>

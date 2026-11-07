@@ -1,0 +1,76 @@
+<section class="hero" style="--hero-image: url(images/img3.jpg)">
+  <div class="container hero__inner">
+    <p class="eyebrow">{{ 'home.hero.eyebrow' | translate }}</p>
+    <h1 class="hero__title">
+      {{ 'home.hero.title' | translate }}
+      <span class="accent">{{ 'home.hero.accent' | translate }}</span>
+    </h1>
+    <p class="hero__lead">{{ 'home.hero.lead' | translate }}</p>
+    <div class="hero__actions">
+      <button type="button" class="btn" (click)="scrollToProducts()">
+        {{ 'home.hero.products' | translate }}
+        <app-icon name="chevron-down" />
+      </button>
+      <a routerLink="/realizacje" class="btn btn--ghost">
+        {{ 'home.cta.button' | translate }}
+        <app-icon name="arrow" />
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="coverage">
+  <div class="container coverage__grid">
+    <div class="coverage__item">
+      <app-icon name="pin" />
+      <div>
+        <strong>{{ 'home.coverage.base.title' | translate }}</strong>
+        <p>{{ 'home.coverage.base.text' | translate }}</p>
+      </div>
+    </div>
+    <div class="coverage__item">
+      <app-icon name="wrench" />
+      <div>
+        <strong>{{ 'home.coverage.poland.title' | translate }}</strong>
+        <p>{{ 'home.coverage.poland.text' | translate }}</p>
+      </div>
+    </div>
+    <div class="coverage__item">
+      <app-icon name="globe" />
+      <div>
+        <strong>{{ 'home.coverage.abroad.title' | translate }}</strong>
+        <p>{{ 'home.coverage.abroad.text' | translate }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="products" id="products">
+  <div class="container">
+    <h2 class="section-title">{{ 'home.products.title' | translate }}</h2>
+    <div class="grid">
+      @for (product of products(); track product.id) {
+        <app-gallery-card
+          [image]="product.images[0]"
+          [title]="language.localize(product.title)"
+          [summary]="language.localize(product.summary)"
+          (opened)="open(product)"
+        />
+      }
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <div class="banner">
+    <app-icon name="shield" class="banner__icon" />
+    <div class="banner__text">
+      <h2>{{ 'home.cta.title' | translate }}</h2>
+      <p>{{ 'home.cta.text' | translate }}</p>
+    </div>
+    <a routerLink="/realizacje" class="btn">
+      {{ 'home.cta.button' | translate }}
+      <app-icon name="arrow" />
+    </a>
+  </div>
+</section>

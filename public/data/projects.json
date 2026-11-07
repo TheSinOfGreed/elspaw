@@ -1,0 +1,300 @@
+[
+  {
+    "id": "szkola-podlasie",
+    "category": "public",
+    "title": {
+      "pl": "Szkoła – balustrady i poręcze",
+      "en": "School – railings and handrails",
+      "de": "Schule – Geländer und Handläufe",
+      "fr": "École – garde-corps et mains courantes"
+    },
+    "location": {
+      "pl": "Podlasie",
+      "en": "Podlasie, Poland",
+      "de": "Podlachien, Polen",
+      "fr": "Podlachie, Pologne"
+    },
+    "summary": {
+      "pl": "Balustrady, ścianki i poręcze wewnętrzne w budynku szkoły.",
+      "en": "Interior railings, partitions and handrails in a school building.",
+      "de": "Innengeländer, Trennwände und Handläufe in einem Schulgebäude.",
+      "fr": "Garde-corps, cloisons et mains courantes intérieurs dans un bâtiment scolaire."
+    },
+    "description": {
+      "pl": "Kompleksowa realizacja dla szkoły: balustrady na schodach, ścianka z poręczą oraz barierki w ciągach komunikacyjnych. Wszystkie elementy wykonane ze stali nierdzewnej, odporne na intensywne użytkowanie.\n\nZakres prac: pomiar, projekt, wykonanie i montaż.",
+      "en": "A complete project for a school: staircase railings, a partition with a handrail and barriers along corridors. All elements are made of stainless steel and withstand heavy use.\n\nScope of work: measurement, design, fabrication and installation.",
+      "de": "Ein Komplettprojekt für eine Schule: Treppengeländer, eine Trennwand mit Handlauf und Absperrungen in den Fluren. Alle Elemente sind aus Edelstahl gefertigt und halten intensiver Nutzung stand.\n\nLeistungsumfang: Aufmaß, Planung, Fertigung und Montage.",
+      "fr": "Un projet complet pour une école : garde-corps d’escalier, cloison avec main courante et barrières dans les couloirs. Tous les éléments sont en acier inoxydable et résistent à un usage intensif.\n\nPrestations : relevé de mesures, conception, fabrication et pose."
+    },
+    "images": [
+      "images/balustrady-wewnetrzne/barierki-szkola.png",
+      "images/balustrady-wewnetrzne/scianka-porecze-szkola.png",
+      "images/balustrady-wewnetrzne/balustrada-plaskowniki-3.png"
+    ]
+  },
+  {
+    "id": "urzad-podjazd",
+    "category": "public",
+    "title": {
+      "pl": "Urząd – podjazd i balustrady",
+      "en": "Public office – ramp and railings",
+      "de": "Amt – Rampe und Geländer",
+      "fr": "Mairie – rampe et garde-corps"
+    },
+    "location": {
+      "pl": "Podlasie",
+      "en": "Podlasie, Poland",
+      "de": "Podlachien, Polen",
+      "fr": "Podlachie, Pologne"
+    },
+    "summary": {
+      "pl": "Podjazd dla osób niepełnosprawnych z balustradami przy wejściu.",
+      "en": "Accessible ramp with railings at the entrance.",
+      "de": "Barrierefreie Rampe mit Geländern am Eingang.",
+      "fr": "Rampe pour personnes à mobilité réduite avec garde-corps à l’entrée."
+    },
+    "description": {
+      "pl": "Podjazd ze stali nierdzewnej wraz z balustradami przy wejściu do budynku urzędu. Konstrukcja spełnia wymagania dostępności i jest odporna na warunki atmosferyczne.",
+      "en": "A stainless steel ramp with railings at the entrance of a public office building. The structure meets accessibility requirements and is weather-resistant.",
+      "de": "Eine Edelstahlrampe mit Geländern am Eingang eines Amtsgebäudes. Die Konstruktion erfüllt die Anforderungen an die Barrierefreiheit und ist witterungsbeständig.",
+      "fr": "Une rampe en acier inoxydable avec garde-corps à l’entrée d’un bâtiment administratif. La structure répond aux exigences d’accessibilité et résiste aux intempéries."
+    },
+    "images": [
+      "images/podjazdy/podjazd-nierdzewka.png",
+      "images/podjazdy/podjazd-nierdzewka-2.png",
+      "images/podjazdy/podjazd-nierdzewka-3.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-1.png"
+    ]
+  },
+  {
+    "id": "obiekt-handlowy",
+    "category": "company",
+    "title": {
+      "pl": "Obiekt handlowy – balustrady ze szkłem",
+      "en": "Retail building – glass railings",
+      "de": "Handelsgebäude – Glasgeländer",
+      "fr": "Bâtiment commercial – garde-corps en verre"
+    },
+    "location": {
+      "pl": "Mazowieckie",
+      "en": "Mazovia, Poland",
+      "de": "Masowien, Polen",
+      "fr": "Mazovie, Pologne"
+    },
+    "summary": {
+      "pl": "Balustrady zewnętrzne z wypełnieniem ze szkła i pleksi.",
+      "en": "Exterior railings with glass and acrylic infill.",
+      "de": "Außengeländer mit Glas- und Acrylfüllung.",
+      "fr": "Garde-corps extérieurs avec remplissage en verre et plexiglas."
+    },
+    "description": {
+      "pl": "Balustrady zewnętrzne dla obiektu handlowego, z wypełnieniem ze szkła i pleksi. Połączenie stali nierdzewnej ze szkłem zapewnia elegancki wygląd i bezpieczeństwo klientów.",
+      "en": "Exterior railings for a retail building with glass and acrylic infill. Combining stainless steel with glass gives an elegant look and keeps customers safe.",
+      "de": "Außengeländer für ein Handelsgebäude mit Glas- und Acrylfüllung. Die Kombination aus Edelstahl und Glas sorgt für ein elegantes Aussehen und die Sicherheit der Kunden.",
+      "fr": "Garde-corps extérieurs pour un bâtiment commercial, avec remplissage en verre et plexiglas. L’association de l’inox et du verre offre un aspect élégant et assure la sécurité des clients."
+    },
+    "images": [
+      "images/balustrady-zewnetrzne/balustrada-ze-szklem-23.png",
+      "images/balustrady-zewnetrzne/balustrada-ze-szklem-11.png",
+      "images/balustrady-zewnetrzne/balustrada-pleksi-14.png"
+    ]
+  },
+  {
+    "id": "piekarnia",
+    "category": "company",
+    "title": {
+      "pl": "Piekarnia – wyroby ze stali nierdzewnej",
+      "en": "Bakery – stainless steel fixtures",
+      "de": "Bäckerei – Edelstahlprodukte",
+      "fr": "Boulangerie – produits en inox"
+    },
+    "location": {
+      "pl": "Podlasie",
+      "en": "Podlasie, Poland",
+      "de": "Podlachien, Polen",
+      "fr": "Podlachie, Pologne"
+    },
+    "summary": {
+      "pl": "Odboje, stelaże i uchwyty dla zakładu produkcji spożywczej.",
+      "en": "Bumpers, frames and hangers for a food production plant.",
+      "de": "Rammschutz, Gestelle und Haken für einen Lebensmittelbetrieb.",
+      "fr": "Butoirs, supports et crochets pour un site de production alimentaire."
+    },
+    "description": {
+      "pl": "Wyroby ze stali nierdzewnej wykonane na potrzeby zakładu spożywczego: odboje, stelaże i uchwyty. Stal nierdzewna jest łatwa w utrzymaniu czystości i spełnia wymagania higieniczne.",
+      "en": "Stainless steel products made for a food production plant: bumpers, frames and hangers. Stainless steel is easy to keep clean and meets hygiene requirements.",
+      "de": "Edelstahlprodukte für einen Lebensmittelbetrieb: Rammschutz, Gestelle und Haken. Edelstahl ist leicht sauber zu halten und erfüllt die Hygieneanforderungen.",
+      "fr": "Produits en acier inoxydable réalisés pour une entreprise agroalimentaire : butoirs, supports et crochets. L’inox est facile à nettoyer et répond aux exigences d’hygiène."
+    },
+    "images": [
+      "images/wyroby-ze-stali-nierdzewnej/odboje.png",
+      "images/wyroby-ze-stali-nierdzewnej/uchwyt-na-wedline.png",
+      "images/wyroby-ze-stali-nierdzewnej/stelaz-schody.png"
+    ]
+  },
+  {
+    "id": "dom-schody",
+    "category": "private",
+    "title": {
+      "pl": "Dom jednorodzinny – schody wewnętrzne",
+      "en": "Family home – interior staircase",
+      "de": "Einfamilienhaus – Innentreppe",
+      "fr": "Maison individuelle – escalier intérieur"
+    },
+    "location": {
+      "pl": "Białystok",
+      "en": "Białystok, Poland",
+      "de": "Białystok, Polen",
+      "fr": "Białystok, Pologne"
+    },
+    "summary": {
+      "pl": "Balustrada schodowa ze stali nierdzewnej z drewnianymi elementami.",
+      "en": "Stainless steel staircase railing with wooden elements.",
+      "de": "Treppengeländer aus Edelstahl mit Holzelementen.",
+      "fr": "Garde-corps d’escalier en inox avec éléments en bois."
+    },
+    "description": {
+      "pl": "Balustrada schodowa i antresolowa w domu jednorodzinnym. Stal nierdzewna połączona z drewnianą poręczą pasuje do nowoczesnych i klasycznych wnętrz.",
+      "en": "Staircase and mezzanine railings in a family home. Stainless steel combined with a wooden handrail suits both modern and classic interiors.",
+      "de": "Treppen- und Galeriegeländer in einem Einfamilienhaus. Edelstahl in Kombination mit einem Holzhandlauf passt zu modernen und klassischen Interieurs.",
+      "fr": "Garde-corps d’escalier et de mezzanine dans une maison individuelle. L’inox associé à une main courante en bois s’accorde avec les intérieurs modernes comme classiques."
+    },
+    "images": [
+      "images/balustrady-wewnetrzne/balustrada-pietro.png",
+      "images/balustrady-wewnetrzne/balustrada-wewnetrzna-schody.png",
+      "images/balustrady-wewnetrzne/balustrada-z-drewnem.png"
+    ]
+  },
+  {
+    "id": "taras-balkon",
+    "category": "private",
+    "title": {
+      "pl": "Taras i balkon – balustrady",
+      "en": "Terrace and balcony railings",
+      "de": "Terrasse und Balkon – Geländer",
+      "fr": "Terrasse et balcon – garde-corps"
+    },
+    "location": {
+      "pl": "Podlasie",
+      "en": "Podlasie, Poland",
+      "de": "Podlachien, Polen",
+      "fr": "Podlachie, Pologne"
+    },
+    "summary": {
+      "pl": "Proste balustrady zewnętrzne na taras i balkon.",
+      "en": "Simple exterior railings for a terrace and balcony.",
+      "de": "Einfache Außengeländer für Terrasse und Balkon.",
+      "fr": "Garde-corps extérieurs simples pour terrasse et balcon."
+    },
+    "description": {
+      "pl": "Balustrady ze stali nierdzewnej na taras i balkon domu prywatnego. Prosta, wytrzymała konstrukcja, która nie wymaga konserwacji.",
+      "en": "Stainless steel railings for the terrace and balcony of a private home. A simple, durable structure that needs no maintenance.",
+      "de": "Edelstahlgeländer für Terrasse und Balkon eines Privathauses. Eine einfache, robuste Konstruktion, die keine Wartung erfordert.",
+      "fr": "Garde-corps en acier inoxydable pour la terrasse et le balcon d’une maison privée. Une structure simple et robuste, sans entretien."
+    },
+    "images": [
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-16.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-17.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-19.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-20.png"
+    ]
+  },
+  {
+    "id": "pergola-ogrodowa",
+    "category": "private",
+    "title": {
+      "pl": "Pergola ogrodowa",
+      "en": "Garden pergola",
+      "de": "Gartenpergola",
+      "fr": "Pergola de jardin"
+    },
+    "location": {
+      "pl": "Podlaskie",
+      "en": "Podlasie, Poland",
+      "de": "Podlachien, Polen",
+      "fr": "Podlachie, Pologne"
+    },
+    "summary": {
+      "pl": "Pergola ze stali nierdzewnej w kształcie kratki.",
+      "en": "Lattice-style stainless steel pergola.",
+      "de": "Pergola aus Edelstahl in Gitterform.",
+      "fr": "Pergola en inox en forme de treillis."
+    },
+    "description": {
+      "pl": "Pergola ogrodowa wykonana na indywidualne zamówienie. Stal nierdzewna gwarantuje trwałość bez względu na pogodę.",
+      "en": "A garden pergola made to order. Stainless steel guarantees durability regardless of the weather.",
+      "de": "Eine nach Kundenwunsch gefertigte Gartenpergola. Edelstahl garantiert Langlebigkeit bei jedem Wetter.",
+      "fr": "Une pergola de jardin réalisée sur commande. L’inox garantit une grande durabilité par tous les temps."
+    },
+    "images": [
+      "images/pergole/pergola-ogrodowa-1.png",
+      "images/pergole/pergola-ogrodowa-2.png"
+    ]
+  },
+  {
+    "id": "niemcy",
+    "category": "abroad",
+    "title": {
+      "pl": "Balustrady do Niemiec",
+      "en": "Railings for Germany",
+      "de": "Geländer für Deutschland",
+      "fr": "Garde-corps pour l’Allemagne"
+    },
+    "location": {
+      "pl": "Niemcy",
+      "en": "Germany",
+      "de": "Deutschland",
+      "fr": "Allemagne"
+    },
+    "summary": {
+      "pl": "Balustrady wykonane w Polsce i zamontowane przez zamawiającego.",
+      "en": "Railings made in Poland and installed by the customer.",
+      "de": "In Polen gefertigte Geländer, vom Auftraggeber montiert.",
+      "fr": "Garde-corps fabriqués en Pologne et installés par le client."
+    },
+    "description": {
+      "pl": "Zamówienie dla klienta z Niemiec: wykonaliśmy komplet balustrad ze szkłem i ze stali nierdzewnej, a montaż klient przeprowadził samodzielnie na miejscu.",
+      "en": "An order for a customer in Germany: we produced a complete set of glass and stainless steel railings and the customer installed them on site.",
+      "de": "Ein Auftrag für einen Kunden aus Deutschland: Wir haben einen kompletten Satz Glas- und Edelstahlgeländer gefertigt, die der Kunde vor Ort selbst montiert hat.",
+      "fr": "Une commande pour un client allemand : nous avons fabriqué un ensemble complet de garde-corps en verre et en inox, que le client a installés lui-même sur place."
+    },
+    "images": [
+      "images/balustrady-zewnetrzne/balustrada-ze-szklem-3.png",
+      "images/balustrady-zewnetrzne/balustrada-ze-szklem-4.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-25.png"
+    ]
+  },
+  {
+    "id": "francja-czechy",
+    "category": "abroad",
+    "title": {
+      "pl": "Realizacja we Francji i w Czechach",
+      "en": "Projects in France and the Czech Republic",
+      "de": "Projekte in Frankreich und Tschechien",
+      "fr": "Réalisations en France et en Tchéquie"
+    },
+    "location": {
+      "pl": "Francja, Czechy",
+      "en": "France, Czech Republic",
+      "de": "Frankreich, Tschechien",
+      "fr": "France, République tchèque"
+    },
+    "summary": {
+      "pl": "Balustrady na zamówienie, z wysyłką lub montażem na miejscu.",
+      "en": "Custom railings, shipped or installed on site.",
+      "de": "Geländer nach Maß, mit Versand oder Montage vor Ort.",
+      "fr": "Garde-corps sur mesure, expédiés ou installés sur place."
+    },
+    "description": {
+      "pl": "Zlecenia zagraniczne realizujemy w dwóch wariantach: wysyłamy gotowe elementy do samodzielnego montażu albo dojeżdżamy na miejsce i montujemy balustrady osobiście.",
+      "en": "We handle foreign orders in two ways: we ship ready-made elements for self-installation, or we travel to the site and install the railings ourselves.",
+      "de": "Auslandsaufträge führen wir auf zwei Arten aus: Wir versenden fertige Elemente zur Selbstmontage oder reisen an und montieren die Geländer persönlich.",
+      "fr": "Nous traitons les commandes à l’étranger de deux manières : nous expédions les éléments prêts à poser pour un montage par vos soins, ou nous nous déplaçons pour installer les garde-corps nous-mêmes."
+    },
+    "images": [
+      "images/balustrady-zewnetrzne/balustrada-pleksi-cala.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-12.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-15.png"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+<div class="dialog" role="dialog" aria-modal="true" [attr.aria-label]="item.title">
+  <button type="button" class="close" (click)="close()" [attr.aria-label]="'common.close' | translate">
+    <app-icon name="close" />
+  </button>
+
+  <div class="gallery">
+    <div class="stage">
+      <img [src]="current()" [alt]="item.title" />
+      @if (hasMany) {
+        <button type="button" class="nav nav--prev" (click)="previous()" [attr.aria-label]="'common.previous' | translate">
+          <app-icon name="chevron-left" />
+        </button>
+        <button type="button" class="nav nav--next" (click)="next()" [attr.aria-label]="'common.next' | translate">
+          <app-icon name="chevron-right" />
+        </button>
+        <span class="counter">{{ index() + 1 }} / {{ item.images.length }}</span>
+      }
+    </div>
+
+    @if (hasMany) {
+      <div class="thumbs">
+        @for (image of item.images; track image; let i = $index) {
+          <button type="button" class="thumb" [class.active]="i === index()" (click)="select(i)">
+            <img [src]="image" alt="" loading="lazy" />
+          </button>
+        }
+      </div>
+    }
+  </div>
+
+  <div class="info">
+    @if (item.tag) {
+      <span class="tag">{{ item.tag }}</span>
+    }
+    <h2 class="title">{{ item.title }}</h2>
+    @if (item.subtitle) {
+      <p class="subtitle"><app-icon name="pin" /> {{ item.subtitle }}</p>
+    }
+    <p class="description">{{ item.description }}</p>
+    <a class="btn" routerLink="/kontakt" (click)="close()">
+      {{ 'common.askForQuote' | translate }}
+      <app-icon name="arrow" />
+    </a>
+  </div>
+</div>
