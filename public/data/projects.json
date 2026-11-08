@@ -1,18 +1,18 @@
 [
   {
-    "id": "szkola-podlasie",
+    "id": "szkola-grajewo",
     "category": "public",
     "title": {
-      "pl": "Szkoła – balustrady i poręcze",
-      "en": "School – railings and handrails",
-      "de": "Schule – Geländer und Handläufe",
-      "fr": "École – garde-corps et mains courantes"
+      "pl": "Szkoła Podstawowa nr 1 im. KI Gałczyńskiego w Grajewie",
+      "en": "Primary School No. 1 named after K. I. Gałczyński in Grajewo",
+      "de": "Grundschule Nr. 1 „K. I. Gałczyński“ in Grajewo",
+      "fr": "École primaire n° 1 K. I. Gałczyński à Grajewo"
     },
     "location": {
-      "pl": "Podlasie",
-      "en": "Podlasie, Poland",
-      "de": "Podlachien, Polen",
-      "fr": "Podlachie, Pologne"
+      "pl": "Grajewo, woj. podlaskie",
+      "en": "Grajewo, Podlasie, Poland",
+      "de": "Grajewo, Podlachien, Polen",
+      "fr": "Grajewo, Podlachie, Pologne"
     },
     "summary": {
       "pl": "Balustrady, ścianki i poręcze wewnętrzne w budynku szkoły.",
@@ -29,23 +29,24 @@
     "images": [
       "images/balustrady-wewnetrzne/barierki-szkola.png",
       "images/balustrady-wewnetrzne/scianka-porecze-szkola.png",
-      "images/balustrady-wewnetrzne/balustrada-plaskowniki-3.png"
+      "images/balustrady-wewnetrzne/balustrada-plaskowniki-3.png",
+      "images/balustrady-wewnetrzne/balustrada-plaskowniki-2.png"
     ]
   },
   {
-    "id": "urzad-podjazd",
+    "id": "urzad-marszalkowski",
     "category": "public",
     "title": {
-      "pl": "Urząd – podjazd i balustrady",
-      "en": "Public office – ramp and railings",
-      "de": "Amt – Rampe und Geländer",
-      "fr": "Mairie – rampe et garde-corps"
+      "pl": "Urząd Marszałkowski Województwa Podlaskiego",
+      "en": "Marshal’s Office of the Podlaskie Voivodeship",
+      "de": "Marschallamt der Woiwodschaft Podlachien",
+      "fr": "Office du maréchal de la voïvodie de Podlachie"
     },
     "location": {
-      "pl": "Podlasie",
-      "en": "Podlasie, Poland",
-      "de": "Podlachien, Polen",
-      "fr": "Podlachie, Pologne"
+      "pl": "Białystok, woj. podlaskie",
+      "en": "Białystok, Podlasie, Poland",
+      "de": "Białystok, Podlachien, Polen",
+      "fr": "Białystok, Podlachie, Pologne"
     },
     "summary": {
       "pl": "Podjazd dla osób niepełnosprawnych z balustradami przy wejściu.",
@@ -60,59 +61,59 @@
       "fr": "Une rampe en acier inoxydable avec garde-corps à l’entrée d’un bâtiment administratif. La structure répond aux exigences d’accessibilité et résiste aux intempéries."
     },
     "images": [
+      "images/daszki/daszek-ze-stali-nierdzewnej.png",
       "images/podjazdy/podjazd-nierdzewka.png",
       "images/podjazdy/podjazd-nierdzewka-2.png",
-      "images/podjazdy/podjazd-nierdzewka-3.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-1.png"
+      "images/podjazdy/podjazd-nierdzewka-3.png"
     ]
   },
   {
-    "id": "obiekt-handlowy",
-    "category": "company",
+    "id": "kosciol-dabrowa-bialostocka",
+    "category": "public",
     "title": {
-      "pl": "Obiekt handlowy – balustrady ze szkłem",
-      "en": "Retail building – glass railings",
-      "de": "Handelsgebäude – Glasgeländer",
-      "fr": "Bâtiment commercial – garde-corps en verre"
+      "pl": "Kościół pw. św. Stanisława Biskupa i Męczennika w Dąbrowie Białostockiej",
+      "en": "Church of St. Stanislaus, Bishop and Martyr, in Dąbrowa Białostocka",
+      "de": "Kirche des hl. Stanislaus, Bischof und Märtyrer, in Dąbrowa Białostocka",
+      "fr": "Église Saint-Stanislas, évêque et martyr, à Dąbrowa Białostocka"
     },
     "location": {
-      "pl": "Mazowieckie",
-      "en": "Mazovia, Poland",
-      "de": "Masowien, Polen",
-      "fr": "Mazovie, Pologne"
+      "pl": "Dąbrowa Białostocka, woj. podlaskie",
+      "en": "Dąbrowa Białostocka, Podlasie, Poland",
+      "de": "Dąbrowa Białostocka, Podlachien, Polen",
+      "fr": "Dąbrowa Białostocka, Podlachie, Pologne"
     },
     "summary": {
-      "pl": "Balustrady zewnętrzne z wypełnieniem ze szkła i pleksi.",
-      "en": "Exterior railings with glass and acrylic infill.",
-      "de": "Außengeländer mit Glas- und Acrylfüllung.",
-      "fr": "Garde-corps extérieurs avec remplissage en verre et plexiglas."
+      "pl": "Balustrady i poręcze zewnętrzne ze stali nierdzewnej.",
+      "en": "Exterior stainless steel railings and handrails.",
+      "de": "Außengeländer und Handläufe aus Edelstahl.",
+      "fr": "Garde-corps et mains courantes extérieurs en inox."
     },
     "description": {
-      "pl": "Balustrady zewnętrzne dla obiektu handlowego, z wypełnieniem ze szkła i pleksi. Połączenie stali nierdzewnej ze szkłem zapewnia elegancki wygląd i bezpieczeństwo klientów.",
-      "en": "Exterior railings for a retail building with glass and acrylic infill. Combining stainless steel with glass gives an elegant look and keeps customers safe.",
-      "de": "Außengeländer für ein Handelsgebäude mit Glas- und Acrylfüllung. Die Kombination aus Edelstahl und Glas sorgt für ein elegantes Aussehen und die Sicherheit der Kunden.",
-      "fr": "Garde-corps extérieurs pour un bâtiment commercial, avec remplissage en verre et plexiglas. L’association de l’inox et du verre offre un aspect élégant et assure la sécurité des clients."
+      "pl": "Balustrady i poręcze zewnętrzne ze stali nierdzewnej wykonane dla kościoła parafialnego. Stal nierdzewna jest odporna na warunki atmosferyczne i nie wymaga konserwacji, a prosta forma konstrukcji dobrze komponuje się z bryłą budynku.",
+      "en": "Exterior stainless steel railings and handrails made for a parish church. Stainless steel resists the weather and needs no maintenance, and the simple form of the structure blends well with the building.",
+      "de": "Außengeländer und Handläufe aus Edelstahl, gefertigt für eine Pfarrkirche. Edelstahl ist witterungsbeständig und wartungsfrei, und die schlichte Form fügt sich gut in das Gebäude ein.",
+      "fr": "Garde-corps et mains courantes extérieurs en acier inoxydable réalisés pour une église paroissiale. L’inox résiste aux intempéries et ne demande aucun entretien, et la forme sobre de la structure s’harmonise avec le bâtiment."
     },
     "images": [
-      "images/balustrady-zewnetrzne/balustrada-ze-szklem-23.png",
-      "images/balustrady-zewnetrzne/balustrada-ze-szklem-11.png",
-      "images/balustrady-zewnetrzne/balustrada-pleksi-14.png"
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-21.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-13.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-25.png"
     ]
   },
   {
-    "id": "piekarnia",
+    "id": "piekarnia-suchowola",
     "category": "company",
     "title": {
-      "pl": "Piekarnia – wyroby ze stali nierdzewnej",
-      "en": "Bakery – stainless steel fixtures",
-      "de": "Bäckerei – Edelstahlprodukte",
-      "fr": "Boulangerie – produits en inox"
+      "pl": "Piekarnia ,,Podlaski Kłos\" w Suchowoli",
+      "en": "“Podlaski Kłos” Bakery in Suchowola",
+      "de": "Bäckerei „Podlaski Kłos“ in Suchowola",
+      "fr": "Boulangerie « Podlaski Kłos » à Suchowola"
     },
     "location": {
-      "pl": "Podlasie",
-      "en": "Podlasie, Poland",
-      "de": "Podlachien, Polen",
-      "fr": "Podlachie, Pologne"
+      "pl": "Suchowola, woj. podlaskie",
+      "en": "Suchowola, Podlasie, Poland",
+      "de": "Suchowola, Podlachien, Polen",
+      "fr": "Suchowola, Podlachie, Pologne"
     },
     "summary": {
       "pl": "Odboje, stelaże i uchwyty dla zakładu produkcji spożywczej.",
@@ -128,24 +129,23 @@
     },
     "images": [
       "images/wyroby-ze-stali-nierdzewnej/odboje.png",
-      "images/wyroby-ze-stali-nierdzewnej/uchwyt-na-wedline.png",
-      "images/wyroby-ze-stali-nierdzewnej/stelaz-schody.png"
+      "images/wyroby-ze-stali-nierdzewnej/uchwyt-na-wedline.png"
     ]
   },
   {
-    "id": "dom-schody",
+    "id": "dom-lozowo",
     "category": "private",
     "title": {
-      "pl": "Dom jednorodzinny – schody wewnętrzne",
-      "en": "Family home – interior staircase",
-      "de": "Einfamilienhaus – Innentreppe",
-      "fr": "Maison individuelle – escalier intérieur"
+      "pl": "Dom jednorodzinny w Łozowie",
+      "en": "Family home in Łozowo",
+      "de": "Einfamilienhaus in Łozowo",
+      "fr": "Maison individuelle à Łozowo"
     },
     "location": {
-      "pl": "Białystok",
-      "en": "Białystok, Poland",
-      "de": "Białystok, Polen",
-      "fr": "Białystok, Pologne"
+      "pl": "Łozowo, woj. podlaskie",
+      "en": "Łozowo, Podlasie, Poland",
+      "de": "Łozowo, Podlachien, Polen",
+      "fr": "Łozowo, Podlachie, Pologne"
     },
     "summary": {
       "pl": "Balustrada schodowa ze stali nierdzewnej z drewnianymi elementami.",
@@ -162,139 +162,74 @@
     "images": [
       "images/balustrady-wewnetrzne/balustrada-pietro.png",
       "images/balustrady-wewnetrzne/balustrada-wewnetrzna-schody.png",
-      "images/balustrady-wewnetrzne/balustrada-z-drewnem.png"
+      "images/balustrady-wewnetrzne/balustrada-z-drewnem.png",
+      "images/balustrady-wewnetrzne/balustrada_drewniana_1.png"
     ]
   },
   {
-    "id": "taras-balkon",
-    "category": "private",
-    "title": {
-      "pl": "Taras i balkon – balustrady",
-      "en": "Terrace and balcony railings",
-      "de": "Terrasse und Balkon – Geländer",
-      "fr": "Terrasse et balcon – garde-corps"
-    },
-    "location": {
-      "pl": "Podlasie",
-      "en": "Podlasie, Poland",
-      "de": "Podlachien, Polen",
-      "fr": "Podlachie, Pologne"
-    },
-    "summary": {
-      "pl": "Proste balustrady zewnętrzne na taras i balkon.",
-      "en": "Simple exterior railings for a terrace and balcony.",
-      "de": "Einfache Außengeländer für Terrasse und Balkon.",
-      "fr": "Garde-corps extérieurs simples pour terrasse et balcon."
-    },
-    "description": {
-      "pl": "Balustrady ze stali nierdzewnej na taras i balkon domu prywatnego. Prosta, wytrzymała konstrukcja, która nie wymaga konserwacji.",
-      "en": "Stainless steel railings for the terrace and balcony of a private home. A simple, durable structure that needs no maintenance.",
-      "de": "Edelstahlgeländer für Terrasse und Balkon eines Privathauses. Eine einfache, robuste Konstruktion, die keine Wartung erfordert.",
-      "fr": "Garde-corps en acier inoxydable pour la terrasse et le balcon d’une maison privée. Une structure simple et robuste, sans entretien."
-    },
-    "images": [
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-16.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-17.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-19.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-20.png"
-    ]
-  },
-  {
-    "id": "pergola-ogrodowa",
-    "category": "private",
-    "title": {
-      "pl": "Pergola ogrodowa",
-      "en": "Garden pergola",
-      "de": "Gartenpergola",
-      "fr": "Pergola de jardin"
-    },
-    "location": {
-      "pl": "Podlaskie",
-      "en": "Podlasie, Poland",
-      "de": "Podlachien, Polen",
-      "fr": "Podlachie, Pologne"
-    },
-    "summary": {
-      "pl": "Pergola ze stali nierdzewnej w kształcie kratki.",
-      "en": "Lattice-style stainless steel pergola.",
-      "de": "Pergola aus Edelstahl in Gitterform.",
-      "fr": "Pergola en inox en forme de treillis."
-    },
-    "description": {
-      "pl": "Pergola ogrodowa wykonana na indywidualne zamówienie. Stal nierdzewna gwarantuje trwałość bez względu na pogodę.",
-      "en": "A garden pergola made to order. Stainless steel guarantees durability regardless of the weather.",
-      "de": "Eine nach Kundenwunsch gefertigte Gartenpergola. Edelstahl garantiert Langlebigkeit bei jedem Wetter.",
-      "fr": "Une pergola de jardin réalisée sur commande. L’inox garantit une grande durabilité par tous les temps."
-    },
-    "images": [
-      "images/pergole/pergola-ogrodowa-1.png",
-      "images/pergole/pergola-ogrodowa-2.png"
-    ]
-  },
-  {
-    "id": "niemcy",
+    "id": "kutna-hora",
     "category": "abroad",
     "title": {
-      "pl": "Balustrady do Niemiec",
-      "en": "Railings for Germany",
-      "de": "Geländer für Deutschland",
-      "fr": "Garde-corps pour l’Allemagne"
+      "pl": "Zabezpieczenia do kolejek górskich w parku rozrywki w Kutná Hora (Czechy)",
+      "en": "Roller coaster safety barriers at an amusement park in Kutná Hora (Czech Republic)",
+      "de": "Sicherheitsabsperrungen für Achterbahnen in einem Freizeitpark in Kutná Hora (Tschechien)",
+      "fr": "Dispositifs de sécurité pour montagnes russes dans un parc d’attractions à Kutná Hora (République tchèque)"
     },
     "location": {
-      "pl": "Niemcy",
-      "en": "Germany",
-      "de": "Deutschland",
-      "fr": "Allemagne"
+      "pl": "Kutná Hora, Czechy",
+      "en": "Kutná Hora, Czech Republic",
+      "de": "Kutná Hora, Tschechien",
+      "fr": "Kutná Hora, République tchèque"
     },
     "summary": {
-      "pl": "Balustrady wykonane w Polsce i zamontowane przez zamawiającego.",
-      "en": "Railings made in Poland and installed by the customer.",
-      "de": "In Polen gefertigte Geländer, vom Auftraggeber montiert.",
-      "fr": "Garde-corps fabriqués en Pologne et installés par le client."
+      "pl": "Zabezpieczenia ze stali nierdzewnej dla atrakcji w parku rozrywki.",
+      "en": "Stainless steel safety barriers for an amusement park attraction.",
+      "de": "Sicherheitsabsperrungen aus Edelstahl für eine Attraktion in einem Freizeitpark.",
+      "fr": "Dispositifs de sécurité en inox pour une attraction de parc d’attractions."
     },
     "description": {
-      "pl": "Zamówienie dla klienta z Niemiec: wykonaliśmy komplet balustrad ze szkłem i ze stali nierdzewnej, a montaż klient przeprowadził samodzielnie na miejscu.",
-      "en": "An order for a customer in Germany: we produced a complete set of glass and stainless steel railings and the customer installed them on site.",
-      "de": "Ein Auftrag für einen Kunden aus Deutschland: Wir haben einen kompletten Satz Glas- und Edelstahlgeländer gefertigt, die der Kunde vor Ort selbst montiert hat.",
-      "fr": "Une commande pour un client allemand : nous avons fabriqué un ensemble complet de garde-corps en verre et en inox, que le client a installés lui-même sur place."
+      "pl": "Realizacja zagraniczna: zabezpieczenia do kolejek górskich w parku rozrywki w Kutná Hora w Czechach. Elementy ze stali nierdzewnej wykonane z myślą o bezpieczeństwie użytkowników i intensywnej eksploatacji.",
+      "en": "An international project: safety barriers for roller coasters at an amusement park in Kutná Hora, Czech Republic. The stainless steel elements are made with user safety and heavy use in mind.",
+      "de": "Ein Auslandsprojekt: Sicherheitsabsperrungen für Achterbahnen in einem Freizeitpark in Kutná Hora, Tschechien. Die Edelstahlelemente sind auf die Sicherheit der Besucher und intensive Beanspruchung ausgelegt.",
+      "fr": "Une réalisation à l’étranger : dispositifs de sécurité pour les montagnes russes d’un parc d’attractions à Kutná Hora, en République tchèque. Les éléments en inox sont conçus pour la sécurité des visiteurs et un usage intensif."
     },
     "images": [
-      "images/balustrady-zewnetrzne/balustrada-ze-szklem-3.png",
-      "images/balustrady-zewnetrzne/balustrada-ze-szklem-4.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-25.png"
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-6.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-8.png",
+      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-5.png"
     ]
   },
   {
-    "id": "francja-czechy",
-    "category": "abroad",
+    "id": "wylegarnia-krynki",
+    "category": "company",
     "title": {
-      "pl": "Realizacja we Francji i w Czechach",
-      "en": "Projects in France and the Czech Republic",
-      "de": "Projekte in Frankreich und Tschechien",
-      "fr": "Réalisations en France et en Tchéquie"
+      "pl": "Wylęgarnia Drobiu „Podlaski Pisklak” w Krynkach",
+      "en": "“Podlaski Pisklak” Poultry Hatchery in Krynki",
+      "de": "Geflügelbrüterei „Podlaski Pisklak“ in Krynki",
+      "fr": "Couvoir de volailles « Podlaski Pisklak » à Krynki"
     },
     "location": {
-      "pl": "Francja, Czechy",
-      "en": "France, Czech Republic",
-      "de": "Frankreich, Tschechien",
-      "fr": "France, République tchèque"
+      "pl": "Krynki, woj. podlaskie",
+      "en": "Krynki, Podlasie, Poland",
+      "de": "Krynki, Podlachien, Polen",
+      "fr": "Krynki, Podlachie, Pologne"
     },
     "summary": {
-      "pl": "Balustrady na zamówienie, z wysyłką lub montażem na miejscu.",
-      "en": "Custom railings, shipped or installed on site.",
-      "de": "Geländer nach Maß, mit Versand oder Montage vor Ort.",
-      "fr": "Garde-corps sur mesure, expédiés ou installés sur place."
+      "pl": "Wyroby ze stali nierdzewnej dla wylęgarni drobiu.",
+      "en": "Stainless steel products for a poultry hatchery.",
+      "de": "Edelstahlprodukte für eine Geflügelbrüterei.",
+      "fr": "Produits en inox pour un couvoir de volailles."
     },
     "description": {
-      "pl": "Zlecenia zagraniczne realizujemy w dwóch wariantach: wysyłamy gotowe elementy do samodzielnego montażu albo dojeżdżamy na miejsce i montujemy balustrady osobiście.",
-      "en": "We handle foreign orders in two ways: we ship ready-made elements for self-installation, or we travel to the site and install the railings ourselves.",
-      "de": "Auslandsaufträge führen wir auf zwei Arten aus: Wir versenden fertige Elemente zur Selbstmontage oder reisen an und montieren die Geländer persönlich.",
-      "fr": "Nous traitons les commandes à l’étranger de deux manières : nous expédions les éléments prêts à poser pour un montage par vos soins, ou nous nous déplaçons pour installer les garde-corps nous-mêmes."
+      "pl": "Konstrukcje i elementy ze stali nierdzewnej wykonane dla wylęgarni drobiu. Stal nierdzewna jest łatwa w utrzymaniu czystości i spełnia wymagania higieniczne.",
+      "en": "Stainless steel structures and elements made for a poultry hatchery. Stainless steel is easy to keep clean and meets hygiene requirements.",
+      "de": "Edelstahlkonstruktionen und -elemente, gefertigt für eine Geflügelbrüterei. Edelstahl ist leicht sauber zu halten und erfüllt die Hygieneanforderungen.",
+      "fr": "Structures et éléments en acier inoxydable réalisés pour un couvoir de volailles. L’inox est facile à nettoyer et répond aux exigences d’hygiène."
     },
     "images": [
-      "images/balustrady-zewnetrzne/balustrada-pleksi-cala.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-12.png",
-      "images/balustrady-zewnetrzne/balustrada-stal-nierdzewna-15.png"
+      "images/wyroby-ze-stali-nierdzewnej/stelaz-schody.png",
+      "images/balustrady-wewnetrzne/balustrada-ze-stali-nierdzewnej-wewnetrzna.png",
+      "images/balustrady-wewnetrzne/balustrady-polaczenia.png"
     ]
   }
 ]
